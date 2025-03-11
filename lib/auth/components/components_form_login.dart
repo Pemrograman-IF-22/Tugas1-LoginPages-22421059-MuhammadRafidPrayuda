@@ -67,9 +67,6 @@ class _ComponentsFormLoginState extends State<ComponentsFormLogin> {
               ),
             ),
           ),
-          const SizedBox(
-            height: 15,
-          ),
         ],
       ),
     );
